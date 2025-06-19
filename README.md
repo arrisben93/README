@@ -1,4 +1,3 @@
-# README
 <h1 align="center">Hi 👋, I'm ARISS BENABBAS</h1>
 <h3 align="center">Full-Stack Web & Mobile Developer | AI Explorer | Based in Montréal, Canada</h3>
 
@@ -12,8 +11,6 @@
 - 🤝 I’m looking for help with [AI Chatbot Assistant for Students](https://github.com/arrisben93/ai-study-buddy)
 
 - 👨‍💻 All of my projects are available at [https://github.com/arrisben93/](https://github.com/arrisben93/)
-
-- 📫 How to reach me **arrisben93@gmail.com**
 
 
 
@@ -103,7 +100,9 @@ I'm **Ariss Benabbas**, an enthusiastic developer passionate about technology, c
 <a href="https://fb.com/arris.madrid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arris.madrid" height="30" width="40" /></a>
 <a href="https://instagram.com/ariss_benabb27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ariss_benabb27" height="30" width="40" /></a>
 </p>
+- 📫 How to reach me **arrisben93@gmail.com**
 
-- ⚡ Fun fact **I once debugged a bug for 4 hours… it was a missing semicolon. 😅 I also believe clean code is ✨ therapeutic.**
+#- ⚡ Fun fact 
+**I once debugged a bug for 4 hours… it was a missing semicolon. 😅 I also believe clean code is ✨ therapeutic.**
 
 
